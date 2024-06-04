@@ -31,6 +31,6 @@ Content
 * Detecting and handling outliers
 * Re-training models with normalized data and outlier-handled data
 **Final accuracy **
-  ** Accuracy ANN ->>  84 %
-  ** Logistic Regression ->> 81 %  
+  * Accuracy ANN ->>  84 %
+  * Logistic Regression ->> 81 %  
      
