@@ -1,5 +1,5 @@
-# Bank-churn-
-**Churn Modeling**
+# Bank-churn-With ANN 
+**Churn Modeling **
 
 * This repository contains a jupyter notebook that analyzes a customer churn dataset and builds models to predict customer churn.
 
